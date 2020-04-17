@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://igrandia.github.io</id>
     <title>龙小芯</title>
-    <updated>2020-04-13T10:21:30.122Z</updated>
+    <updated>2020-04-17T08:09:12.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://igrandia.github.io"/>
     <link rel="self" href="https://igrandia.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://igrandia.github.io/images/avatar.png</logo>
     <icon>https://igrandia.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 龙小芯</rights>
+    <entry>
+        <title type="html"><![CDATA[考研英语常用词根词缀（更新中）]]></title>
+        <id>https://igrandia.github.io/post/kao-yan-ying-yu-chang-yong-ci-gen-ci-zhui-geng-xin-zhong/</id>
+        <link href="https://igrandia.github.io/post/kao-yan-ying-yu-chang-yong-ci-gen-ci-zhui-geng-xin-zhong/">
+        </link>
+        <updated>2020-04-17T08:05:12.000Z</updated>
+        <content type="html"><![CDATA[<p>-ion 名词后缀</p>
+<p>-ual 形容词后缀</p>
+<p>-ible 能...的，可...的</p>
+<p>形容词 + ly = 副词</p>
+<p>pro- 向前	    prolong &lt;v,n&gt; 预习，预览</p>
+<p>pre- 在...之前      preview <v> 延长</p>
+<p>bio- 生物，生命     biology</p>
+<p>vis- 词根-看	    visual <adj> 视力的，视觉的</p>
+<p>tele- 远=far 	    telescope <n> 望远镜</p>
+<p>micro- 微小的	    microsoft <n> 微软</p>
+<p>uni- 联合，统一	    union <n> 联合会，联盟</p>
+<p>vers- 转</p>
+<p>-phon- 声音         microphone <n> 麦克风，扩音器</p>
+<p>-graph- 词根-写，画 telegraph <n> 电报机</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://igrandia.github.io/post/hello/</id>
